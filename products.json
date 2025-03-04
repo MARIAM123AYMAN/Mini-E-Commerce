@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "imageMan": "img/srt1.webp"
+    },
+    {
+        "id": 2,
+        "name":" LD02 LOUNGE CHAIR",
+        "price": 250,
+        "imageMan": "img/srt2.webp"
+    },
+    {
+        "id": 3,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 290,
+        "imageMan": "img/srt6.webp"
+    },
+    {
+        "id": 4,
+        "name":" Trending Girl Tops",
+        "price": 200,
+        "imageWoman": "img/wn4.webp"
+    },
+    {
+        "id": 5,
+        "name":" Trending Girl Tops",
+        "price": 300,
+        "imageWoman": "img/wn5.webp"
+    },
+    {
+        "id": 6,
+        "name":" Trending Girl Tops",
+        "price": 200,
+        "imageWoman": "img/wn6.webp"
+    }
+
+]
